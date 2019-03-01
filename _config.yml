@@ -1,9 +1,6 @@
 permalink: /:title:output_ext
 
-topnav_title: anarchySF - a reading and viewing list
-# this appears on the top navigation bar next to the home button
-
-site_title: anarchySF
+site_title: Designing Tomorrow/s
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 host: 127.0.0.1
@@ -35,7 +32,7 @@ kramdown:
 
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
-description: "anarchySF - A reading and viewing list"
+description: "Designing Tomorrow/s"
 # the description is used in the feed.xml file
 
 
