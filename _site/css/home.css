@@ -19,13 +19,17 @@ a {
   font-weight: 700;
 }
 
+#homewrapper.lighten .mainsitetitle {
+  color: #17255A;
+}
+
 .mainsitetitle {
-  color: #00BABA;
+  color: #EDFFEC;
   text-decoration: none;
   cursor: pointer;
   font-weight: 700;
-  font-size: 30px;
-  margin-left: 20px;
+  font-size: 50px;
+  margin-left: 50px;
   margin-right: 20px;
 }
 
@@ -188,7 +192,7 @@ a {
     justify-content: space-evenly;
     margin-top: 10px;
     position: sticky;
-    top: 310px;
+    top: 330px;
   }
 
   #celestialbuttons i {
@@ -222,7 +226,7 @@ a {
     text-align: center;
     font-style: italic;
     position: sticky;
-    top: 350px;
+    top: 360px;
   }
 
   #morelinks a {
@@ -310,6 +314,17 @@ a {
   #homehero h2 {
     color: #F4998D;
     font-size: 30px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+  }
+
+  #homewrapper.lighten h3 {
+    color: #9D695A;
+  }
+
+  #homehero h3 {
+    color: #F5E2C8;
+    font-size: 20px;
     margin-bottom: 25px;
     margin-left: 50px;
   }
