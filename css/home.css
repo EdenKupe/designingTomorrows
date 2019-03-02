@@ -562,11 +562,11 @@ a {
 @media only screen and (max-width:1440px) {
 
   #pagecontent > p {
-    width: 110%;
+    width: 80%;
   }
 
   .lowerpagecontent > p {
-    width: 110%;
+    width: 80%;
   }
 
   .fa-moon {
